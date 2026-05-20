@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+import 'location_screen.dart';
 import 'maps_screen.dart';
 
 void main() {
@@ -16,7 +17,7 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Demo',
       theme: ThemeData(colorScheme: .fromSeed(seedColor: Colors.deepPurple),
       ),
-      home: MapsScreen(),
+      home: LocationScreen(),
     );
   }
 }
