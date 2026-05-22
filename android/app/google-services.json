@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "391387178768",
+    "project_id": "real-time-location-track-cdea5",
+    "storage_bucket": "real-time-location-track-cdea5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391387178768:android:004a818c0fafdb2df3a795",
+        "android_client_info": {
+          "package_name": "com.example.real_time_location_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHnuAbTcfEMf-W5ocPZhMS3Nxv8li6pT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

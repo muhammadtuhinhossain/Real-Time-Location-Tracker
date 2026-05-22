@@ -1,6 +1,8 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
+import 'package:real_time_location_tracker/real_time_location.dart';
 
+import 'assiginment_real_time_location.dart';
 import 'firebase_options.dart';
 import 'location_screen.dart';
 import 'maps_screen.dart';
@@ -23,7 +25,7 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Demo',
       theme: ThemeData(colorScheme: .fromSeed(seedColor: Colors.deepPurple),
       ),
-      home: LocationScreen(),
+      home: AssignmentRealTimeLocation(),
     );
   }
 }
